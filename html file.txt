@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Economics</title>
+</head>
+<body>
+
+<h1>Micro Economics</h1>
+<p>Study of behaviour of different individual and organization within economic system.</p>
+<h2>Macro Economics</h2>
+<p>Study of the behaviour of nation(more than one region)</p>
+
+</body>
+</html>
